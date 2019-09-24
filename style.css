@@ -1,0 +1,21 @@
+body {
+   font-size: 13 px;
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.logo {
+ text-align: center;
+ padding: 109px 0px 0px
+}
+.right-hand-stuff {
+    text-align: right;
+    min-width: 244px;
+    position: relative;
+}
+.under-the-serchbar {
+    text-align: center
+}
